@@ -6,7 +6,7 @@ The API documentation for YouTube Subscriber API. This documentation provides de
 
 ## Base URL
 The base URL for all endpoints is 
- ```http 
+ ``` 
     http://localhost:3000
  ```
 ## Authentication
